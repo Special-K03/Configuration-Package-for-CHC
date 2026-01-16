@@ -1,7 +1,7 @@
 # 📦 Configuration Package – City Health Clinic Queue Management System
 **Version:** 1.0  
 **Prepared By:** Kaleb   
-**Date:** 1/10/2026  
+**Date:** 1/1/2026  
 **Environment:** Mock Configuration (Portfolio Project)
 
 ---
@@ -120,6 +120,6 @@ The City Health Clinic Queue Management System is configured to support patient 
 
 | Version | Date | Author | Description |
 |---------|------|--------|-------------|
-| 1.0 | 1/10/2026 | Kaleb B | Initial configuration package created |
+| 1.0 | 1/1/2026 | Kaleb B | Initial configuration package created |
 
 ---
