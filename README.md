@@ -34,7 +34,7 @@ The City Health Clinic Queue Management System is configured to support patient 
 ## 4. SMS Notification Configuration
 
 ### **Enabled:** Yes  
-### **SMS Provider:** Mock SMS Gateway (Portfolio Simulation)
+### **SMS Provider:** Mock SMS Gateway
 
 | Event Trigger | Description | Message Template |
 |---------------|-------------|------------------|
